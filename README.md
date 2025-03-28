@@ -1,5 +1,7 @@
 # Terraform AWS 3-Tier Project
 
+Explicación paso a paso: https://todotelco.com/aws-aplicacion-3-tier-arquitectura-de-3-capas-utilizando-terraform/
+
 ### Architecture / Arquitectura
 ![arquitectura 3tier](https://github.com/user-attachments/assets/be32dd0d-47f3-4731-94c6-1b9b5d01e702)
 
